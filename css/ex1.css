@@ -1,0 +1,31 @@
+h1{
+    color:white;
+    font-size:40px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: darkcyan;
+}
+
+h2{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    background-color: navy;
+}
+
+table{
+    background-color: lightcoral;
+}
+
+ol{
+    background-image: url("../images/p0050_s.jpg");
+}
+
+body{
+    background-image: url("../images/p0019_s.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    
+}
