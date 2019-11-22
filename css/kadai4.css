@@ -1,0 +1,43 @@
+h1{
+    color:white;
+    font-size:40px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color:black;
+}
+
+h2{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+
+body{
+    background-image: url("../images/p0050_s.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    
+}
+
+.bluecolor {
+color : blue;
+}
+
+
+h2#shoei {
+    color:red;
+    font-weight: bold;
+    text-align: center;
+    background-color: mediumpurple;
+}
+
+h1#matsuki {
+    color:pink;
+    font-weight: bold;
+    text-align: center;
+    background-color: green;
+}
