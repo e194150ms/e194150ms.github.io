@@ -1,0 +1,92 @@
+div.wrap{
+    width : 1000px;
+    margin : 0px auto;
+}
+
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: gray;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Impact";
+    margin-right: 30px;
+}
+
+
+div.middle{
+    width: 1000px;
+    height: 320px;
+    background-color: azure;
+    font-size: 0; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div.bottom{
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    text-align: right;
+    font-size: 20px;
+}
+
+div.left{
+    width: 250px;
+    height: 320px;
+    background-color: gray;
+    display:inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-right: 50px;
+}
+
+div.menuitem1{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+div.menuitem2{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+div.menuitem3{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+div.right{
+    width: 700px;
+    height: 300px;
+    background-color: gray;
+    display:inline-block;
+    vertical-align: top;
+    color:white;
+    font-size: 20px;
+    
+}
+
+div.image{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+    
+}
+
+div.article{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+    text-align: center;
+    font-size: 15px;
+}
+
